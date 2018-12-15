@@ -1,4 +1,3 @@
 # hi,this is comment
 print('hello python & git rock')
 print('hello')
-print('test')
